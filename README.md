@@ -22,7 +22,7 @@ Fonction log() qui écrit à l’écran et dans le fichier log.
 Téléchargement simple via curl -o.
 
 
-Fonctionnalités ajoutées (v7)
+Fonctionnalités ajoutées (v3)
 1. Mode verbeux intégré à curl
 Passage de l’option -v à un usage natif de curl -v.
 
