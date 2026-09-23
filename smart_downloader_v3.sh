@@ -1,6 +1,6 @@
 #!/bin/bash
 # Smart Downloader v5 (avec limite de redirections)
-# Auteur : Votre Nom
+# Auteur : RANDRIANIRINA Ckevin
 # Description : Télécharge un fichier depuis une URL avec reprise, mode verbeux, log, option SSL insecure et suivi des redirections limité
 
 # Affichage de l'aide
